@@ -6,7 +6,7 @@
  * @counter: line number
  * Return: no return
  */
-void f_print(stack_t **head, unsigned int counter)
+void f_pint(stack_t **head, unsigned int counter)
 {
 	if (*head == NULL)
 	{
