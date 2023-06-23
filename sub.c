@@ -4,7 +4,7 @@
  * f_sub - substraction
  * @head: stack head
  * @counter: line number
- * @Return: no return
+ * Return: no return
  */
 void f_sub(stack_t **head, unsigned int counter)
 {
